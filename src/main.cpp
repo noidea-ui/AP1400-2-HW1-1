@@ -5,8 +5,17 @@
 
 int main(int argc, char **argv)
 {
-    if (true) // make false to run unit-tests
+    if (false) // make false to run unit-tests
     {
+        size_t n, m;
+        std::cin >> n >> m;
+        
+        algebra::Matrix m1=algebra::random(n ,m,0,2);
+        algebra::show(m1);
+        algebra::Matrix m2 = algebra::random(n, m, 0, 2);
+        algebra::show(m2);
+        algebra::Matrix result = algebra::concatenate(m1, m2);
+        algebra::show(result);
         // debug section
     }
     else
