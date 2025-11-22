@@ -1,3 +1,4 @@
+我本人第一次使用github学习很有纪念意义，我想追随老学长的脚步自学
 # Advanced Programming - HW1
 <p  align="center"> <b>Homework 1 - Spring 2022 Semester <br> Deadline: Sunday Esfand 1st - 11:59 pm</b> </p>
 
@@ -210,3 +211,4 @@ return 0;
 ```
 <br/>
 <p  align="center"> <b>GOOD LUCK</b> </p>
+
